@@ -53,7 +53,9 @@ It also uses many other open source libraries such as:
 * [RoboGuice](https://github.com/roboguice/roboguice)
 * [ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
 
-These are just a few of the major dependencies, the entire list of dependencies
+These are just a few of the major
+
+jdfcisfhvisvisdvns,rvc ms dependencies, the entire list of dependencies
 is listed in the [app's POM file](https://github.com/github/android/blob/master/app/pom.xml).
 
 ## Contributing
